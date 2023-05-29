@@ -1,0 +1,2 @@
+oil,extract oil from ground,250000,2023-06-30,2023-07-23
+cotton,cotton of egypt,150000,2023-07-23,2023-12-12
