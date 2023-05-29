@@ -1,1 +1,1 @@
-# this file to store users info
+# this file to store users data
